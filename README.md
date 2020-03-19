@@ -20,9 +20,9 @@ To use - please clone the repository and then set up your virtual environment us
 
 
     git clone https://github.com/shanealynn/async_flask
-    cd async_flask
-    virtualenv flaskiotest
-    ./flaskiotest/Scripts/activate
+    cd spowerfy
+    virtualenv spowerfy
+    ./spowerfy/Scripts/activate
     pip install -r requirements.txt  #(or in Windows - sometimes python -m pip install -r requirements.txt )
 
 
