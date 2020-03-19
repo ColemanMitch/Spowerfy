@@ -14,7 +14,7 @@ https://github.com/miguelgrinberg/Flask-SocketIO
 
 It is also based on the async_flask code from Shane Lynn:
 
-
+https://github.com/shanealynn/async_flask
 
 To use - please clone the repository and then set up your virtual environment using the requirements.txt file with pip and virtualenv. You can achieve this with:
 
