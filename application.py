@@ -27,7 +27,7 @@ socketio = SocketIO(app, async_mode=None, logger=True, engineio_logger=True)
 cid = '[INPUT YOUR CLIENT ID HERE]'
 secret = '[INPUT YOUR CLIENT SECRET HERE]'
 scope = 'user-read-playback-state,user-modify-playback-state'
-user = '1276110561'
+user = '[INPUT YOUR USER # HERE]'
 uri = 'http://localhost/'
 
 interval = 60
