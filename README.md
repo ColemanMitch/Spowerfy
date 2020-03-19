@@ -19,7 +19,7 @@ https://github.com/shanealynn/async_flask
 To use - please clone the repository and then set up your virtual environment using the requirements.txt file with pip and virtualenv. You can achieve this with:
 
 
-    git clone https://github.com/shanealynn/async_flask
+    git clone https://github.com/ColemanMitch/Spowerfy
     cd spowerfy
     virtualenv spowerfy
     ./spowerfy/Scripts/activate
