@@ -4,7 +4,7 @@ Cole Mitchell 03/19/2020
 
 ===========
 
-![demo gif](http://www.giphy.com/gifs/L0O7ZDRIHwzapacXY7)
+![demo gif](giphy.gif)
 
 Test of asynchronous flask communication with web page. 
 
