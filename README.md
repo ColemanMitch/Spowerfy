@@ -4,6 +4,8 @@ Cole Mitchell 03/19/2020
 
 ===========
 
+![demo gif](http://www.giphy.com/gifs/L0O7ZDRIHwzapacXY7)
+
 Test of asynchronous flask communication with web page. 
 
 Spowerfy is a flask application that controls the playback of a Spotify playlist and updates a webpage to the album art of the track that is currently playing by using a background thread for all users connected.
