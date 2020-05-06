@@ -5,6 +5,7 @@ Cole Mitchell 03/19/2020
 ===========
 
 ![demo gif](giphy.gif)
+
 Note: I've sped up the playback in the above .gif for illustrative purposes
 
 Test of asynchronous flask communication with web page. 
