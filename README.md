@@ -1,19 +1,19 @@
-#Spowerfy# 
+# Spowerfy 
 
-Cole Mitchell 03/19/2020
+#### Spowerfy is a web application built in Flask that controls the playback of a Spotify playlist to skip to the next song every minute on the minute. It also updates a webpage to show the track name, artist, and album art of the current playback by using an asynchronous background thread.
 
-Spowerfy is a web application built in Flask that controls the playback of a Spotify playlist to skip to the next song every minute on the minute. It also updates a webpage to show the track name, artist, and album art of the current playback by using an asynchronous background thread.
-===========
+#### Ideal use case for this web app is to automate your next power hour! :beer:
 
 ![demo gif](giphy.gif)
 
 Note: I've sped up the above .gif for illustrative purposes
 
-Technologies used:
+##### Technologies used:
 * Python (async_io, spotipy, Oauth)
 * Flask
 * JavaScript
-* HTML/CSS
+* HTML
+* CSS 
 * Jinja2
 
 This project is based on the very useful Flask-SocketIO code from Miguel Grinberg.
